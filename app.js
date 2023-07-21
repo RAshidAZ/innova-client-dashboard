@@ -1,5 +1,5 @@
 require('./config/index');
-require('./models/db');
+require('./mongoDB_connector');
 const express = require('express');
 const bodyParser = require('body-parser');
 

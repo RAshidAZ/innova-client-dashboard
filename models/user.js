@@ -1,4 +1,4 @@
-let mongoose = require('./db');
+let mongoose = require('../mongoDB_connector');
 
 // grab the things we need
 let Schema = mongoose.Schema;
