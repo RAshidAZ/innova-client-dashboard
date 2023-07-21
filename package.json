@@ -23,6 +23,7 @@
   "homepage": "https://github.com/RAshidAZ/innova-client-dashboard#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.3.8"
+    "mongoose": "^6.3.8",
+    "node-cron": "^3.0.2"
   }
 }
