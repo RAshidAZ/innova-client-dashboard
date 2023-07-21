@@ -1,0 +1,27 @@
+{
+  "name": "innova-client-dashboard",
+  "version": "1.0.0",
+  "description": "The backend for innova tech client dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAshidAZ/innova-client-dashboard.git"
+  },
+  "keywords": [
+    "innova-tech",
+    "client-dashboard",
+    "cb-pro"
+  ],
+  "author": "Innova Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAshidAZ/innova-client-dashboard/issues"
+  },
+  "homepage": "https://github.com/RAshidAZ/innova-client-dashboard#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
