@@ -16,6 +16,8 @@ let userSchema = new Schema({
     provider: String,
     salt: String,
 
+    merchantId: String,
+
     // optional
     userMeta: { 
        
